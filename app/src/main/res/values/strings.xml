@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Salzburg Tour Guide</string>
+    <string name="tab_text_1">Sights</string>
+    <string name="tab_text_2">Hotels</string>
+    <string name="tab_text_3">Dining</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- Sights -->
+    <string name="salzburg_main">Salzburg City</string>
+    <string name="address_main">Austria Salzburg</string>
+    <string name="description_main">Salzburg is the capital of a federal province of Austria with the same name. The city′s magnificent Baroque town centre is rated as a UNESCO World Cultural Heritage site and can easily be explored by foot.</string>
+
+    <string name="salzburg_dom">Salzburger Dom</string>
+    <string name="address_dom">Domplatz 1a 5020 Salzburg</string>
+    <string name="description_dom">The Domplatz right in front of the Salzburger Dom Cathedral is surrounded by the Residenz Castle and St. Peter′s Abbey.</string>
+
+    <string name="salzburg_castle">Hohensalzburg Fortress</string>
+    <string name="address_castle">Mönchsberg 34 5020 Salzburg</string>
+    <string name="description_castle">The mightiest fortress of central Europe, a powerful castle sitting in a prominent position, undoubted Salzburg′s prime attraction and most dominant feature of the city′s skyline.</string>
+
+    <string name="salzburg_gasse">Getreidegasse</string>
+    <string name="address_gasse">Getreidegasse 5020 Salzburg</string>
+    <string name="description_gasse">The Getreidegasse near the cathedral is Salzburg′s busiest lane, one super-expensive boutique next to another. The Getreidegasse is also known for the Mozart birthplace in the Hagenauerhaus.</string>
+
+    <string name="salzburg_hellbrunn">Hellbrunn Palace</string>
+    <string name="address_hellbrunn">Fürstenweg 37. 5020 Salzburg</string>
+    <string name="description_hellbrunn">The main building of Schloss Hellbrunn Castle or the Hellbrunn Palace, was built between 1613 and 1615. </string>
+
+    <string name="salzburg_mirabell">Mirabell Palace</string>
+    <string name="address_mirabell">Mirabellplatz 5020 Salzburg</string>
+    <string name="description_mirabell">The Baroque masterpiece of Schloss Mirabell Palace was initially built as "Schloß Altenau" under the reign of Prince Archbishop Wolf Dietrich von Raitenau in 1606.</string>
+
+    <!-- Hotels -->
+    <string name="salzburg_hotelweisse">Hotel Weisse Taube</string>
+    <string name="address_hotelweisse">Kaigasse 9A 5020 Salzburg</string>
+    <string name="description_hotelweisse">The Altstadthotel Weisse Taube is right in the heart of town, within a short walk of all the major sights.</string>
+
+    <string name="salzburg_hotelrosen">Hotel Rosenvilla</string>
+    <string name="address_hotelrosen">Höfelgasse 4 5020 Salzburg</string>
+    <string name="description_hotelrosen">Only few minutes′ walk from the historic centre of Salzburg, in the Hotel Rosenvilla you will find an idyllic home during your holiday in Salzburg.</string>
+
+    <string name="salzburg_hotelwolf">Hotel Wolf Dietrich</string>
+    <string name="address_hotelwolf">Wolf-Dietrich-Straße 7 5020 Salzburg</string>
+    <string name="description_hotelwolf">The 4 star Hotel is located in the historical city center of Salzburg. </string>
+
+    <string name="salzburg_hotelamadeo">Amadeo Hotel</string>
+    <string name="address_hotelamadeo">Alpenstrasse 115-117 5020 Salzburg</string>
+    <string name="description_hotelamadeo">Amadeo Hotel Schaffenrath, in the southern section of Salzburg, pleases guests with its many different offerings. </string>
+
+    <string name="salzburg_hotelgmachl">Hotel Gmachl</string>
+    <string name="address_hotelgmachl">Dorfstraße 14 5161 Salzburg-Elixhausen</string>
+    <string name="description_hotelgmachl">Passion for detail is interwoven with the highest quality of standards at the 4*Superior Romantik Hotel GMACHL in Elixhausen, Salzburg.</string>
+
+    <!-- Dining -->
+    <string name="salzburg_augustiner">Augustiner Abbey and Müllner Bräu Brewery</string>
+    <string name="address_augustiner">Lindhofstraße 7 5020 Salzburg</string>
+    <string name="description_augustiner">The biggest beer garden of Austria and one of the biggest in Europe is also famous beyond Austria for its excellent beer.</string>
+
+    <string name="salzburg_riedenburg">Riedenburg</string>
+    <string name="address_riedenburg">Neutorstraße 31 5020 Salzburg</string>
+    <string name="description_riedenburg">Neutorstraße 31 is among the finest places for culinary pleasures. A good place to spot celebrities during the festival, too.</string>
+
+    <string name="salzburg_sacher">Cafe Sacher</string>
+    <string name="address_sacher">Schwarzstraße 5-7 5020 Salzburg</string>
+    <string name="description_sacher">This slightly snobbish Cafe at the Hotel Sacher Salzburg used to be called "Österreichischer Hof". </string>
+
+    <string name="salzburg_stube">Paul Stube</string>
+    <string name="address_stube">Herrengasse 16 5020 Salzburg</string>
+    <string name="description_stube">This hidden treasure in the Herrengasse just underneath the Fortress is normally packed with students and locals.</string>
+
+    <string name="salzburg_goldener">Goldener Hirsch</string>
+    <string name="address_goldener">Getreidegasse 37 5020 Salzburg</string>
+    <string name="description_goldener">Just around the corner to the previous one, you will find the all-time favourite restaurant and hotel of the Salzburg Festival guests. </string>
+
+</resources>

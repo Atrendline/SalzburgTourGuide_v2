@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="@dimen/place_item_margin">
+
+
+    <ImageView
+        android:id="@+id/placePic"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="8dp"
+        android:src="@drawable/dom" />
+
+    <LinearLayout
+        android:id="@+id/placeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:orientation="vertical"
+        android:paddingLeft="8dp">
+
+        <TextView
+            android:id="@+id/placeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/place_item_text_size"
+            android:textStyle="bold"
+            tools:text="@string/salzburg_dom" />
+
+        <TextView
+            android:id="@+id/placeAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            tools:text="@string/address_dom" />
+
+        <TextView
+            android:id="@+id/placeDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/description_dom" />
+
+    </LinearLayout>
+</LinearLayout>

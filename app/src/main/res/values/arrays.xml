@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sights_content">
+        <item>@string/salzburg_main</item>
+        <item>@string/salzburg_dom</item>
+        <item>@string/salzburg_castle</item>
+        <item>@string/salzburg_gasse</item>
+        <item>@string/salzburg_hellbrunn</item>
+        <item>@string/salzburg_mirabell</item>
+    </string-array>
+
+    <string-array name="sights_address">
+        <item>@string/address_main</item>
+        <item>@string/address_dom</item>
+        <item>@string/address_castle</item>
+        <item>@string/address_gasse</item>
+        <item>@string/address_hellbrunn</item>
+        <item>@string/address_mirabell</item>
+    </string-array>
+
+    <string-array name="sights_description">
+        <item>@string/description_main</item>
+        <item>@string/description_dom</item>
+        <item>@string/description_castle</item>
+        <item>@string/description_gasse</item>
+        <item>@string/description_hellbrunn</item>
+        <item>@string/description_mirabell</item>
+    </string-array>
+
+    <string-array name="hotel_content">
+        <item>@string/salzburg_hotelweisse</item>
+        <item>@string/salzburg_hotelrosen</item>
+        <item>@string/salzburg_hotelwolf</item>
+        <item>@string/salzburg_hotelamadeo</item>
+        <item>@string/salzburg_hotelgmachl</item>
+    </string-array>
+
+    <string-array name="hotel_address">
+        <item>@string/address_hotelweisse</item>
+        <item>@string/address_hotelrosen</item>
+        <item>@string/address_hotelwolf</item>
+        <item>@string/address_hotelamadeo</item>
+        <item>@string/address_hotelgmachl</item>
+    </string-array>
+
+    <string-array name="hotel_description">
+        <item>@string/description_hotelweisse</item>
+        <item>@string/description_hotelrosen</item>
+        <item>@string/description_hotelwolf</item>
+        <item>@string/description_hotelamadeo</item>
+        <item>@string/description_hotelgmachl</item>
+    </string-array>
+
+    <string-array name="dining_content">
+        <item>@string/salzburg_augustiner</item>
+        <item>@string/salzburg_riedenburg</item>
+        <item>@string/salzburg_sacher</item>
+        <item>@string/salzburg_stube</item>
+        <item>@string/salzburg_goldener</item>
+    </string-array>
+
+    <string-array name="dining_address">
+        <item>@string/address_augustiner</item>
+        <item>@string/address_riedenburg</item>
+        <item>@string/address_sacher</item>
+        <item>@string/address_stube</item>
+        <item>@string/address_goldener</item>
+    </string-array>
+
+    <string-array name="dining_description">
+        <item>@string/description_augustiner</item>
+        <item>@string/description_riedenburg</item>
+        <item>@string/description_sacher</item>
+        <item>@string/description_stube</item>
+        <item>@string/description_goldener</item>
+    </string-array>
+
+</resources>
