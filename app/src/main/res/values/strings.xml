@@ -3,9 +3,8 @@
     <string name="tab_text_1">Sights</string>
     <string name="tab_text_2">Hotels</string>
     <string name="tab_text_3">Dining</string>
+    <string name="tab_text_4">Events</string>
     <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
-
 
     <!-- Sights -->
     <string name="salzburg_main">Salzburg City</string>
@@ -73,5 +72,26 @@
     <string name="salzburg_goldener">Goldener Hirsch</string>
     <string name="address_goldener">Getreidegasse 37 5020 Salzburg</string>
     <string name="description_goldener">Just around the corner to the previous one, you will find the all-time favourite restaurant and hotel of the Salzburg Festival guests. </string>
+
+    <!--Events-->
+    <string name="salzburg_mozart">Mozart in Residence - Concert</string>
+    <string name="address_mozart">Renaissance Hall at the Altstadt Hotel Radisson Blu</string>
+    <string name="description_mozart">Saturday, 09. Jun 2018 from 17:00</string>
+
+    <string name="salzburg_concert">MirabellPalaceConcerts</string>
+    <string name="address_concert">Mirabellplatz 5020 Salzburg</string>
+    <string name="description_concert">Saturday, 09. Jun 2018 from 20:00</string>
+
+    <string name="salzburg_sommer">Sommerszene</string>
+    <string name="address_sommer">ZIB Shopping Fürbergstraße 18-20 5020 Salzburg</string>
+    <string name="description_sommer">Saturday, 09. Jun 2018 from 20:00</string>
+
+    <string name="salzburg_magic">The Magic Flute</string>
+    <string name="address_magic">Salzburger Marionettentheater Schwarzstraße 24 5020 Salzburg</string>
+    <string name="description_magic">Wednesday, 13. Jun 2018 from 19:30</string>
+
+    <string name="salzburg_tour">Guided City Tour</string>
+    <string name="address_tour">Altstadt 5020 Salzburg</string>
+    <string name="description_tour">Monday, 11. Jun 2018 from 14:00</string>
 
 </resources>

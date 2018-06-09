@@ -75,4 +75,29 @@
         <item>@string/description_goldener</item>
     </string-array>
 
+    <string-array name="events_content">
+        <item>@string/salzburg_mozart</item>
+        <item>@string/salzburg_concert</item>
+        <item>@string/salzburg_sommer</item>
+        <item>@string/salzburg_magic</item>
+        <item>@string/salzburg_tour</item>
+    </string-array>
+
+    <string-array name="events_address">
+        <item>@string/address_mozart</item>
+        <item>@string/address_concert</item>
+        <item>@string/address_sommer</item>
+        <item>@string/address_magic</item>
+        <item>@string/address_tour</item>
+    </string-array>
+
+    <string-array name="events_description">
+        <item>@string/description_mozart</item>
+        <item>@string/description_concert</item>
+        <item>@string/description_sommer</item>
+        <item>@string/description_magic</item>
+        <item>@string/description_tour</item>
+    </string-array>
+
+
 </resources>
